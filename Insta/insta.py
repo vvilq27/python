@@ -22,11 +22,9 @@ from instapy import InstaPy
 from instapy.util import smart_run
 
 # login credentials
-insta_username = 'arasssu'
-insta_password = 'p0p3k123'
+insta_username = ''
+insta_password = ''
 
-# insta_username = 'project_watchdog'
-# insta_password = 'p0p0123'
 
 # get an InstaPy session!
 # set headless_browser=True to run InstaPy in the background
