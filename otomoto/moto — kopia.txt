@@ -1,0 +1,409 @@
+Oferta 15: https://www.otomoto.pl/oferta/ktm-sxf-ID6Cual6.html#2c80a34b1f
+ Marka: KTM
+ Model: SXF
+ Typ: None
+ Rok: 2014
+ Poj: None
+ Moc: None
+ Przebieg: 122 km
+ Oferta 16: https://www.otomoto.pl/oferta/ktm-sxf-250-sxf-2011-ID6CRtkQ.html#2c80a34b1f
+ Marka: KTM
+ Model: SXF
+ Typ: None
+ Rok: 2011
+ Poj: 250
+ Moc: 40 KM
+ Przebieg: 9 999 km
+ Oferta 31: https://www.otomoto.pl/oferta/vespa-lx-ID6C3GiR.html#2c80a34b1f
+ Marka: Vespa
+ Model: LX
+ Typ: None
+ Rok: 2013
+ Poj: None
+ Moc: None
+ Przebieg: 6 000 km
+ Oferta 3: https://www.otomoto.pl/oferta/kayo-atv-tor-250-cc-nowosc-2018-kupisz-na-raty-ID6AfJP2.html#57468d8f3a
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2018
+ Poj: 250
+ Moc: 19 KM
+ Przebieg: 1 km
+ Oferta 13: https://www.otomoto.pl/oferta/bashan-quad-atv-bs-hummer-premium-plus-250-cc-manual-przeprawowy-hak-led-ID6AVAXd.html#57468d8f3a
+ Marka: Bashan
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 250
+ Moc: 23 KM
+ Przebieg: 1 km
+ Oferta 14: https://www.otomoto.pl/oferta/cross-pro-factory-300-cc-manual-duzy-19-16-cali-28-km-ID6C0ZUg.html#57468d8f3a
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 28 KM
+ Przebieg: 1 km
+ Oferta 15: https://www.otomoto.pl/oferta/cross-bs-250-cc-manual-kola-17-14-4-suw-duza-rama-ID6BzGtk.html#57468d8f3a
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 250
+ Moc: 23 KM
+ Przebieg: 1 km
+ Oferta 18: https://www.otomoto.pl/oferta/husqvarna-te-husqvarna-te310-ID6zOwgN.html#57468d8f3a
+ Marka: Husqvarna
+ Model: TE
+ Typ: None
+ Rok: 2010
+ Poj: 310
+ Moc: None
+ Przebieg: 6 400 km
+ Oferta 23: https://www.otomoto.pl/oferta/peugeot-ludix-2-ID6CJM5p.html#57468d8f3a
+ Marka: Peugeot
+ Model: Ludix 2
+ Typ: None
+ Rok: 2017
+ Poj: None
+ Moc: None
+ Przebieg: 9 000 km
+ Oferta 26: https://www.otomoto.pl/oferta/kymco-mxu-ID6C1CRn.html#57468d8f3a
+ Marka: Kymco
+ Model: MXU
+ Typ: None
+ Rok: 2010
+ Poj: None
+ Moc: None
+ Przebieg: 100 km
+ Oferta 30: https://www.otomoto.pl/oferta/eagle-motorsports-atv-250-ID6CrAAk.html#57468d8f3a
+ Marka: Eagle Motorsports
+ Model: ATV 250
+ Typ: None
+ Rok: 2017
+ Poj: None
+ Moc: None
+ Przebieg: 3 500 km
+ Oferta 31: https://www.otomoto.pl/oferta/cross-hurricane-300-cc-manual-duzy-19-16-cali-28-km-ID6CSuyl.html#57468d8f3a
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 28 KM
+ Przebieg: 1 km
+ Oferta 0: https://www.otomoto.pl/oferta/cross-hurricane-300-cc-manual-duzy-19-16-cali-28-km-ID6CSuyl.html#41204a063d
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 28 KM
+ Przebieg: 1 km
+ Oferta 3: https://www.otomoto.pl/oferta/yamaha-x-max-idealny-x-max-250-r-sport-serwis-13r-ID6CIQIN.html#41204a063d
+ Marka: Yamaha
+ Model: X-max
+ Typ: None
+ Rok: 2013
+ Poj: 250
+ Moc: 20 KM
+ Przebieg: 28 715 km
+ Oferta 5: https://www.otomoto.pl/oferta/honda-pcx-125-kat-b-duzy-wybor-skuterow-i-motocykli-ID6CTsC4.html#41204a063d
+ Marka: Honda
+ Model: PCX
+ Typ: None
+ Rok: 2011
+ Poj: None
+ Moc: None
+ Przebieg: 17 046 km
+ Oferta 10: https://www.otomoto.pl/oferta/yamaha-x-max-xcity-250-x-max-250-pierwszy-wlasciciel-2011-rok-poz-kat-30-ID6BMx1z.html#41204a063d
+ Marka: Yamaha
+ Model: X-max
+ Typ: None
+ Rok: 2012
+ Poj: 250
+ Moc: None
+ Przebieg: 38 000 km
+ Oferta 11: https://www.otomoto.pl/oferta/kymco-grand-dink-downtown-300-xciting-300-pierwszy-wlasciciel-rat-poz-kat-17-ID6BHwM8.html#41204a063d
+ Marka: Kymco
+ Model: Grand Dink
+ Typ: None
+ Rok: 2015
+ Poj: 300
+ Moc: None
+ Przebieg: 19 000 km
+ Oferta 13: https://www.otomoto.pl/oferta/piaggio-vespa-vespa-gts-300-vespa-250-gts-raty-poz-kat-57-ID6C7lYy.html#41204a063d
+ Marka: Piaggio
+ Model: Vespa
+ Typ: None
+ Rok: 2010
+ Poj: 300
+ Moc: None
+ Przebieg: 22 000 km
+ Oferta 16: https://www.otomoto.pl/oferta/zongshen-cross-alfarad-250-zawieszenie-tyl-na-kiwaku-pelnowymiarowy-ID6yQO8R.html#41204a063d
+ Marka: Zongshen
+ Model: Inny
+ Typ: None
+ Rok: 2018
+ Poj: 249
+ Moc: 24 KM
+ Przebieg: 1 km
+ Oferta 20: https://www.otomoto.pl/oferta/vespa-gts-vespa-gts300ie-wroclaw-2014-supersport-ID6CQmNc.html#41204a063d
+ Marka: Vespa
+ Model: GTS
+ Typ: None
+ Rok: 2014
+ Poj: 300
+ Moc: None
+ Przebieg: 27 580 km
+ Oferta 30: https://www.otomoto.pl/oferta/yamaha-x-max-250ccm-1-wlasciciel-raty-gwarancja-transport-cala-polska-2010r-ID6CTs6q.html#41204a063d
+ Marka: Yamaha
+ Model: X-max
+ Typ: None
+ Rok: 2010
+ Poj: 250
+ Moc: None
+ Przebieg: 11 041 km
+ Oferta 21: https://www.otomoto.pl/oferta/linhai-300-4x4-ID6CMktU.html#8629ce96b0
+ Marka: Linhai
+ Model: 300
+ Typ: None
+ Rok: 2011
+ Poj: 300
+ Moc: 17 KM
+ Przebieg: 4 300 km
+ Oferta 29: https://www.otomoto.pl/oferta/beta-rr-ID6CRs2L.html#8629ce96b0
+ Marka: Beta
+ Model: RR
+ Typ: None
+ Rok: 2010
+ Poj: None
+ Moc: None
+ Przebieg: 100 km
+ Oferta 30: https://www.otomoto.pl/oferta/ktm-duke-bezwypadkowy-w-idealnym-stanie-ktm-duke-390-od-drugiego-wlasciciela-ID6Czjix.html#8629ce96b0
+ Marka: KTM
+ Model: Duke
+ Typ: None
+ Rok: 2016
+ Poj: 373
+ Moc: 44 KM
+ Przebieg: 8 700 km
+ Oferta 3: https://www.otomoto.pl/oferta/yamaha-yzf-ID6C5WI8.html#67ddb46739
+ Marka: Yamaha
+ Model: YZF
+ Typ: None
+ Rok: 2014
+ Poj: None
+ Moc: None
+ Przebieg: 8 600 km
+ Oferta 5: https://www.otomoto.pl/oferta/vespa-gts-ID6CMo06.html#67ddb46739
+ Marka: Vespa
+ Model: GTS
+ Typ: None
+ Rok: 2014
+ Poj: None
+ Moc: 15 KM
+ Przebieg: 12 900 km
+ Oferta 12: https://www.otomoto.pl/oferta/junak-m-ID6CKEo6.html#67ddb46739
+ Marka: Junak
+ Model: M
+ Typ: None
+ Rok: 2017
+ Poj: None
+ Moc: None
+ Przebieg: 3 329 km
+ Oferta 26: https://www.otomoto.pl/oferta/honda-cbr-250r-salon-polska-hrc-nowe-opony-doskonaly-stan-ID6BL8SA.html#67ddb46739
+ Marka: Honda
+ Model: CBR
+ Typ: Sportowy
+ Rok: 2011
+ Poj: 250
+ Moc: 26 KM
+ Przebieg: 11 063 km
+ Oferta 5: https://www.otomoto.pl/oferta/kawasaki-z-kawasaki-z250-model-2016-rzeszow-ID6CJC5H.html#6ed1d4b44d
+ Marka: Kawasaki
+ Model: Z
+ Typ: None
+ Rok: 2016
+ Poj: 250
+ Moc: 25 KM
+ Przebieg: 2 200 km
+ Oferta 6: https://www.otomoto.pl/oferta/vespa-gts-250-300-abs-model-2018-ID6CTquY.html#6ed1d4b44d
+ Marka: Vespa
+ Model: GTS
+ Typ: None
+ Rok: 2010
+ Poj: 244
+ Moc: 22 KM
+ Przebieg: 12 000 km
+ Oferta 7: https://www.otomoto.pl/oferta/cross-magnum-300cc-manual-duzy-21-18-28km-lampa-wysoka-jakosc-ID6CTquE.html#6ed1d4b44d
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 28 KM
+ Przebieg: 1 km
+ Oferta 21: https://www.otomoto.pl/oferta/bashan-quad-beretta-mk-250-ccm-raty-transport-gratisy-ID6CEhZ8.html#6ed1d4b44d
+ Marka: Bashan
+ Model: Inny
+ Typ: None
+ Rok: 2019
+ Poj: 250
+ Moc: 24 KM
+ Przebieg: 1 km
+ Oferta 26: https://www.otomoto.pl/oferta/ktm-duke-390-ID6CrAmF.html#6ed1d4b44d
+ Marka: KTM
+ Model: Duke
+ Typ: None
+ Rok: 2014
+ Poj: 373
+ Moc: 43 KM
+ Przebieg: 15 135 km
+ Oferta 3: https://www.otomoto.pl/oferta/yamaha-x-max-xmax-250-armed-bike-raty-warszawa-ID6CRq2W.html#491aec7f75
+ Marka: Yamaha
+ Model: X-max
+ Typ: None
+ Rok: 2010
+ Poj: 250
+ Moc: 20 KM
+ Przebieg: 37 006 km
+ Oferta 27: https://www.otomoto.pl/oferta/suzuki-gsf-bandit-a2-ID6CQkWm.html#491aec7f75
+ Marka: Suzuki
+ Model: GSF - Bandit
+ Typ: None
+ Rok: 2010
+ Poj: None
+ Moc: None
+ Przebieg: 17 000 km
+ Oferta 1: https://www.otomoto.pl/oferta/honda-varadero-125-2011r-raty-mozliwosc-transportu-ID6CF8Ya.html#012629cc60
+ Marka: Honda
+ Model: Varadero
+ Typ: None
+ Rok: 2011
+ Poj: None
+ Moc: None
+ Przebieg: 20 723 km
+ Oferta 2: https://www.otomoto.pl/oferta/junak-nowy-junak-711-maxi-skuter-raty-dowoz-ID6CRpIS.html#012629cc60
+ Marka: Junak
+ Model: Inny
+ Typ: None
+ Rok: 2019
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ Oferta 4: https://www.otomoto.pl/oferta/kawasaki-z-kawasaki-z300-ID6CQkHk.html#012629cc60
+ Marka: Kawasaki
+ Model: Z
+ Typ: None
+ Rok: 2015
+ Poj: 296
+ Moc: 39 KM
+ Przebieg: 24 800 km
+ Oferta 5: https://www.otomoto.pl/oferta/junak-901-nowy-2020-junak-901-50ccm-motorower-na-dowod-raty-transport-ID6CRpGB.html#012629cc60
+ Marka: Junak
+ Model: 901
+ Typ: None
+ Rok: 2020
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ Oferta 7: https://www.otomoto.pl/oferta/quad-250-apollo-magnum-automat-lampy-ID6CIhBR.html#012629cc60
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2019
+ Poj: 249
+ Moc: 24 KM
+ Przebieg: 1 km
+ Oferta 12: https://www.otomoto.pl/oferta/ktm-duke-ktm-duke-390-duke390-xtx-ID6CN8r7.html#012629cc60
+ Marka: KTM
+ Model: Duke
+ Typ: None
+ Rok: 2016
+ Poj: 390
+ Moc: None
+ Przebieg: 16 500 km
+ Oferta 15: https://www.otomoto.pl/oferta/kymco-downtown-kymco-k-xct300-k-xct-300-abs-downtown-300-k-xct300-ID6CTkWb.html#012629cc60
+ Marka: Kymco
+ Model: Downtown
+ Typ: None
+ Rok: 2015
+ Poj: 300
+ Moc: None
+ Przebieg: 19 000 km
+ Oferta 18: https://www.otomoto.pl/oferta/kymco-super-8-ID6CNE5r.html#012629cc60
+ Marka: Kymco
+ Model: Super 8
+ Typ: None
+ Rok: 2011
+ Poj: None
+ Moc: None
+ Przebieg: 6 000 km
+ Oferta 13: https://www.otomoto.pl/oferta/quad-atv-bs-hummer-300-cc-manual-hak-licznik-alufelgi-przyczepka-ID6CwBRQ.html#a96875b800
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 28 KM
+ Przebieg: 1 km
+ Oferta 17: https://www.otomoto.pl/oferta/junak-902-nowy-junak-902-motorower-2020-rok-euro-4-raty-ID6CRp8l.html#a96875b800
+ Marka: Junak
+ Model: 902
+ Typ: None
+ Rok: 2020
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ Oferta 20: https://www.otomoto.pl/oferta/bajaj-pulsar-ns-200-fabrycznie-promocja-nowy-raty-leasing-promocja-1000zl-ID6Cjiwx.html#a96875b800
+ Marka: Bajaj
+ Model: Pulsar
+ Typ: Sportowy
+ Rok: 2019
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ Oferta 8: https://www.otomoto.pl/oferta/bashan-quad-atv-bs-300-hummer-dowoz-gratis-ID6C7TuZ.html#225aeedbf8
+ Marka: Bashan
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 300
+ Moc: 27 KM
+ Przebieg: 1 km
+ Oferta 13: https://www.otomoto.pl/oferta/quad-atv-bs-hummer-250cc-dostawa-gratis-ID6BRrno.html#225aeedbf8
+ Marka: Inny
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: 250
+ Moc: 23 KM
+ Przebieg: 1 km
+ Oferta 26: https://www.otomoto.pl/oferta/honda-cbr-cbr250-abs-armed-bike-raty-warszawa-ID6BULWm.html#225aeedbf8
+ Marka: Honda
+ Model: CBR
+ Typ: Sportowy
+ Rok: 2012
+ Poj: 250
+ Moc: 26 KM
+ Przebieg: 32 570 km
+ Oferta 0: https://www.otomoto.pl/oferta/honda-crf-ID6BM1ha.html#e7c0812b20
+ Marka: Honda
+ Model: CRF
+ Typ: None
+ Rok: 2015
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ Oferta 2: https://www.otomoto.pl/oferta/junak-s-125-nowa-dynamiczna-propozycja-na-prawo-jazdy-kat-b-ID6CQjBO.html#e7c0812b20
+ Marka: Junak
+ Model: Inny
+ Typ: None
+ Rok: 2020
+ Poj: None
+ Moc: None
+ Przebieg: 1 km
+ 
